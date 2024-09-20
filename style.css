@@ -1,0 +1,59 @@
+body {
+    margin: 0;  
+    padding: 0;
+}
+
+.content-wrapper {
+    max-width: 1920px; 
+    margin: 0 auto;     
+    padding-left: 20px; 
+    padding-right: 20px; 
+    text-align: justify
+} 
+  
+  h1 {
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 6vw;
+    margin-top: 0.5em;
+    font-weight: 350;
+    text-align: center; 
+}
+
+h2 {
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 3vw;
+    font-weight: 250;
+    text-align: center; 
+    margin-top: 5vw;
+}
+
+p {
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 2vw;
+    font-weight: 200;
+   
+}
+
+iframe {
+    width: 100%;           
+    max-width: 1200px;      
+    height: auto;           
+    aspect-ratio: 16 / 9;   
+    display: block;         
+    margin: 0 auto;       
+}
+
+#site-footer p {
+    padding: 100px 0 0 0;      
+    text-align: center;        
+    font-family: "Josefin Sans", sans-serif;  
+    font-size: 1.5vw;            
+    color: #333;               
+}
+
+.concept-image {
+    display: block;         
+    max-width: 100%;       
+    height: auto;           
+    margin: 0 auto;         
+}
